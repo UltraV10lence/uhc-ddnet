@@ -1,2 +1,10 @@
-# uhc-ddnet
-UltraV10lence Hacked Client - ddrace network cheats
+# UltraV10lence Hacked Client
+Changelog, day 1:
+делается главный движок дднета, на основе которого будут работать все модули чита
+запланированные функции, в порядке разработки:
+авто хаммер
+аимбот
+hookbot (дамми справа сам подсасывает и хукает пол когда нечего делать)
+motion suppressor (пытается фулл остановить движение, можно настроить ось x и y)
+avoid basic
+avoid advanced
